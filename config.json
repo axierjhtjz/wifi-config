@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "category": 1,
+      "regexp": [
+        "688615.*",
+        "688616.*",
+        "688626.*"
+      ],
+      "enabled": true,
+      "blacklistTimeMultiplier": 2,
+      "maxBlacklistTime": 3,
+      "minLinkSpeed": 5,
+      "minLinkSpeedScreenOff": 5,
+      "minRssiLevel": 64,
+      "minRssiLevelScreenOff": 80,
+      "rssiWarningCount": 3,
+      "ttl": 60000,
+      "testdelay": 15
+    }
+  ]
+}
