@@ -12,8 +12,8 @@
       "maxBlacklistTime": 3,
       "minLinkSpeed": 5,
       "minLinkSpeedScreenOff": 5,
-      "minRssiLevel": 74,
-      "minRssiLevelScreenOff": 90,
+      "minRssiLevel": 64,
+      "minRssiLevelScreenOff": 80,
       "rssiWarningCount": 3,
       "ttl": 60000,
       "testdelay": 15
