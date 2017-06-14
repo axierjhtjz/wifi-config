@@ -7,7 +7,7 @@
         "688616.*",
         "688626.*"
       ],
-      "enabled": true,
+      "enabled": false,
       "blacklistTimeMultiplier": 2,
       "maxBlacklistTime": 3,
       "minLinkSpeed": 5,
